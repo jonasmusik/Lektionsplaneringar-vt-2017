@@ -1,10 +1,10 @@
-# Lektionsplaneringar i musik
+# Terminsplaneringar i musik
 Detta är en samling av material kopplat till ämnet musik på Grönkullaskolan.
 
 1. [9a](https://jonasmusik.github.io/Lektionsplaneringar-vt-2017/Terminsplanering-9a/)
 
-## 9a Lektionsplanering vt2017
-lektionsplanering för 9a
+## 9a Terminsplanering vt2017
+terminsplanering för 9a
 
 Vecka | Datum | Lektion | Innehåll  
 ---|-------|---------|----------
@@ -31,8 +31,8 @@ Vecka | Datum | Lektion | Innehåll
 22 | 2017-05-30 | 19 | Innehåll 
 23 | 2017-06-06 | ingen lektion | ingen lektion 
 
-## 9b Lektionsplanering vt2017
-lektionsplanering för 9b
+## 9b Terminsplanering vt2017
+terminsplanering för 9b
 
 Vecka | Datum | Lektion | Innehåll  
 ---|-------|---------|----------
@@ -59,8 +59,8 @@ Vecka | Datum | Lektion | Innehåll
 23 | 2017-05-29 | 19 | Innehåll 
 24 | 2017-06-06 | Nationaldagen | ingen lektion 
 
-## 9c Lektionsplanering vt2017
-lektionsplanering för 9c
+## 9c Terminsplanering vt2017
+terminsplanering för 9c
 
 Vecka | Datum | Lektion | Innehåll  
 ---|-------|---------|----------
